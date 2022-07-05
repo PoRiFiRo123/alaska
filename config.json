@@ -1,0 +1,22 @@
+{
+  "token": "OTY2NDAwNDUxMTU3MzExNDkx.G1PN3H.iwdhqIiyRlZ47Dx4VDlBhggfWcs8n_RoGpoVa4",
+  "prefix": "b!",
+  "color": "#6861fe",
+  "pastebinapi": "sdsd",
+  "secret": "Ied9VDHaHSZd33J6nq4iaq6duCteBY-K",
+  "callback": "https://dash.nexusx.dev/callback",
+
+  "paypal": {
+    "clientId": "",
+    "clientSecret": ""
+  },
+  "servers": {
+    "157": "74.200.116.157"
+  },
+  "passwords": {
+    "157": "NotSaksh@0001"
+  },
+  "usernames": {
+    "157": "root"
+  }
+}
